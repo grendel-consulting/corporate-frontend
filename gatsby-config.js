@@ -1,9 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-  },
+    title: 'Grendel Consulting',
+    keywords: 'Grendel',
+    blurb: 'Boutique consultancy providing interim and remote CTO services',
+    author: `@jhaelan`,
+    corporate: {
+      name: 'Grendel Consulting Limited',
+      reference: '10125435',
+      region: 'England and Wales',
+      office: 'Venture House, Brookside Avenue, Rustington, Littlehampton, BN16 3LF',
+      since: '2016',
+    }
+},
   plugins: [
     `gatsby-plugin-react-helmet`,
     {

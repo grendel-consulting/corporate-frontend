@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "grendel-corporate-frontend",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "Brochureware website for Grendel Consulting Limited",
+  "version": "0.1.1",
+  "author": "James Ramirez <hello@grendel-consulting.com>",
   "dependencies": {
     "gatsby": "^2.1.4",
     "gatsby-image": "^2.0.29",
@@ -31,9 +31,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/grendel-consulting/corporate-frontend"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/grendel-consulting/corporate-frontend/issues"
   }
 }
