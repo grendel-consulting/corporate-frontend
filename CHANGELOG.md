@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.3](https://github.com/grendel-consulting/corporate-frontend/compare/v0.2.2...v0.2.3) (2019-04-18)
+
+
+### Bug Fixes
+
+* **toolchain:** Workaround for [#1](https://github.com/grendel-consulting/corporate-frontend/issues/1) ([770503b](https://github.com/grendel-consulting/corporate-frontend/commit/770503b))
+
+
+
 ## [0.2.2](https://github.com/grendel-consulting/corporate-frontend/compare/v0.2.1...v0.2.2) (2019-04-18)
 
 
