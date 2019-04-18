@@ -52,9 +52,9 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
-  "standard-version": {
-    "scripts": {
-      "precommit": "lint-staged"
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
