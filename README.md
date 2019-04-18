@@ -8,5 +8,5 @@ Features:
 - Blazing fast performance, targeting 100% on Lighthouse in hosted production environment
 - Theming (in progress) based on styled-components, styled-system and styled-theming
 - Authentication with [Auth0!](https://auth0.com)
-- Deployed to AWS using Amplify
+- Deployed to AWS using [Amplify!](https://aws-amplify.github.io)
 - Feature-flagging
