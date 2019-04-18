@@ -10,3 +10,6 @@ Features:
 - Authentication with [Auth0!](https://auth0.com)
 - Deployed to AWS using [Amplify!](https://aws-amplify.github.io)
 - Feature-flagging
+
+Badges:
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
