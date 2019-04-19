@@ -18,7 +18,7 @@ const Postal = () => (
       }
     `}
     render={data => (
-      <Box display="inline" id="" className="vcard">Registered office:{" "}
+      <Box display="inline" id="registered-office" className="vcard">Registered office:{" "}
         <Box display="inline" className="org">Grendel Consulting Limited</Box>{" "}
         <Box display="inline" className="adr">
           <Box display="inline" className="street-address">Venture House, Brookside Avenue</Box>{", "}
