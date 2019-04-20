@@ -52,7 +52,8 @@
     "snyk": "^1.151.2"
   },
   "resolutions": {
-    "conventional-changelog": "^1.0.0"
+    "conventional-changelog": "^1.0.0",
+    "lodash": "^4.17.11"
   },
   "keywords": [
     "Grendel"
