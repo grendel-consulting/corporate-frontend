@@ -62,7 +62,8 @@
   },
   "resolutions": {
     "conventional-changelog": "^1.0.0",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "mem": "^4.0.0"
   },
   "keywords": [
     "Grendel"
@@ -76,7 +77,7 @@
     "start": "yarn run develop",
     "serve": "gatsby serve",
     "pretest": "yarn run lint:css && yarn run lint",
-    "test": "jest --passWithNoTests",
+    "test": "jest --passWithNoTests && snyk test",
     "lint": "eslint . --cache --fix",
     "lint:css": "stylelint '**/*.js'"
   },
