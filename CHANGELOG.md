@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.7](https://github.com/grendel-consulting/corporate-frontend/compare/v0.2.6...v0.2.7) (2019-04-22)
+
+
+### Bug Fixes
+
+* Workaround for vulnerability in "mem" found by Snyk ([5bcbece](https://github.com/grendel-consulting/corporate-frontend/commit/5bcbece))
+
+
+
 ## [0.2.6](https://github.com/grendel-consulting/corporate-frontend/compare/v0.2.5...v0.2.6) (2019-04-21)
 
 
