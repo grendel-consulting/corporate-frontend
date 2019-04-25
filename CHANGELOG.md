@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
+* **toolchain:** Bumps workaround for [#1](https://github.com/grendel-consulting/corporate-frontend/issues/1)
 * **deps:** update gatsby monorepo ([f0212df](https://github.com/grendel-consulting/corporate-frontend/commit/f0212df))
 * **deps:** update gatsby monorepo ([6935646](https://github.com/grendel-consulting/corporate-frontend/commit/6935646))
 
