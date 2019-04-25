@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.8](https://github.com/grendel-consulting/corporate-frontend/compare/v0.2.7...v0.2.8) (2019-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update gatsby monorepo ([f0212df](https://github.com/grendel-consulting/corporate-frontend/commit/f0212df))
+* **deps:** update gatsby monorepo ([6935646](https://github.com/grendel-consulting/corporate-frontend/commit/6935646))
+
+
+
 ## [0.2.7](https://github.com/grendel-consulting/corporate-frontend/compare/v0.2.6...v0.2.7) (2019-04-22)
 
 

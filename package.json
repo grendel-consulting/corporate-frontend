@@ -2,7 +2,7 @@
   "name": "grendel-corporate-frontend",
   "private": true,
   "description": "Brochureware website for Grendel Consulting Limited",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "author": "James Ramirez <hello@grendel-consulting.com>",
   "dependencies": {
     "@paralleldrive/feature-toggles": "1.0.4",
@@ -61,7 +61,7 @@
     "stylelint-processor-styled-components": "1.6.0"
   },
   "resolutions": {
-    "conventional-changelog": "^1.0.0",
+    "conventional-changelog": "^3.1.4",
     "lodash": "^4.17.11",
     "mem": "^4.0.0"
   },
