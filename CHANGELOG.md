@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.10](https://github.com/grendel-consulting/corporate-frontend/compare/v0.2.9...v0.2.10) (2019-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby to v2.3.30 ([73318d1](https://github.com/grendel-consulting/corporate-frontend/commit/73318d1))
+
+
+
 ## [0.2.9](https://github.com/grendel-consulting/corporate-frontend/compare/v0.2.8...v0.2.9) (2019-04-25)
 
 
