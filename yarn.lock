@@ -4714,6 +4714,11 @@ eslint-plugin-jsx-a11y@6.2.1, eslint-plugin-jsx-a11y@^6.0.3:
     has "^1.0.3"
     jsx-ast-utils "^2.0.1"
 
+eslint-plugin-react-hooks@^1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-1.6.0.tgz#348efcda8fb426399ac7b8609607c7b4025a6f5f"
+  integrity sha512-lHBVRIaz5ibnIgNG07JNiAuBUeKhEf8l4etNx5vfAEwqQ5tcuK3jV9yjmopPgQDagQb7HwIuQVsE3IVcGrRnag==
+
 eslint-plugin-react@7.12.4, eslint-plugin-react@^7.8.2:
   version "7.12.4"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.12.4.tgz#b1ecf26479d61aee650da612e425c53a99f48c8c"
@@ -4726,6 +4731,11 @@ eslint-plugin-react@7.12.4, eslint-plugin-react@^7.8.2:
     object.fromentries "^2.0.0"
     prop-types "^15.6.2"
     resolve "^1.9.0"
+
+eslint-plugin-sonarjs@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-sonarjs/-/eslint-plugin-sonarjs-0.3.0.tgz#e680438e816142c1a85d5ec4d0d36a12b1491459"
+  integrity sha512-75e/FgU04ySKVYsrMOioINMphJNtfXq/tJ6FOC/50H9osuM0E3pqAKckMja2zl+CHqhDroz0qJdcS3kFy5GYlQ==
 
 eslint-scope@3.7.1:
   version "3.7.1"
