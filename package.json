@@ -50,7 +50,7 @@
     "husky": "2.3.0",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.8.0",
-    "lint-staged": "8.1.6",
+    "lint-staged": "8.1.7",
     "prettier": "1.17.1",
     "react-test-renderer": "16.8.6",
     "snyk": "1.164.0",
