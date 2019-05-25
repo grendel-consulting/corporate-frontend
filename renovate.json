@@ -17,7 +17,9 @@
     "packagePatterns": ["^gatsby", "^eslint"],
     "schedule": ["after 9pm on sunday"]
   }],
-  "postUpdateOptions":"yarnDedupeHighest",
+  "postUpdateOptions": [
+    "yarnDedupeHighest"
+  ],
   "timezone":"Europe/London",
   "vulnerabilityAlerts": {
     "labels": ["security"],
