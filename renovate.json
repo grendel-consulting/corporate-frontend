@@ -1,5 +1,26 @@
 {
+  "baseBranch":"staging",
   "extends": [
-    "config:base"
+    "config:base", "schedule:nonOfficeHours"
   ]
+  "packageRules": [{
+    "depTypeList": ["dependencies", "peerDependencies"],
+    "automerge": true,
+    "major": {
+      "automerge": false
+    }
+  },{
+    "depTypeList": ["devDependencies"],
+    "automerge": true
+  },{
+    "packageNames": ["snyk"],
+    "packagePatterns": ["^gatsby", "^eslint"],
+    "schedule": ["after 9pm on sunday"]
+  }],
+  "postUpdateOptions":"yarnDedupeHighest",
+  "timezone":"Europe/London",
+  "vulnerabilityAlerts": {
+    "labels": ["security"],
+    "assignees": ["@ramirezj"]
+  }
 }
