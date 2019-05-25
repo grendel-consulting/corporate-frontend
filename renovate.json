@@ -2,7 +2,7 @@
   "baseBranch":"staging",
   "extends": [
     "config:base", "schedule:nonOfficeHours"
-  ]
+  ],
   "packageRules": [{
     "depTypeList": ["dependencies", "peerDependencies"],
     "automerge": true,
