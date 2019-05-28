@@ -9067,7 +9067,7 @@ physical-cpu-count@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/physical-cpu-count/-/physical-cpu-count-2.0.0.tgz#18de2f97e4bf7a9551ad7511942b5496f7aba660"
 
-picomatch@^2.0.3, picomatch@^2.0.5:
+picomatch@^2.0.5:
   version "2.0.7"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.0.7.tgz#514169d8c7cd0bdbeecc8a2609e34a7163de69f6"
 
@@ -11576,9 +11576,9 @@ styled-normalize@8.0.6:
   version "8.0.6"
   resolved "https://registry.yarnpkg.com/styled-normalize/-/styled-normalize-8.0.6.tgz#f27f87292f46aa79ad6db6339aff5db529df3c91"
 
-styled-system@4.2.3:
-  version "4.2.3"
-  resolved "https://registry.yarnpkg.com/styled-system/-/styled-system-4.2.3.tgz#124c470b593b9d38bdba5b76e69e71d63317e90b"
+styled-system@4.2.4:
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/styled-system/-/styled-system-4.2.4.tgz#8909f91396c30b92295b4eddec5f7b89f8c8d767"
   dependencies:
     "@babel/runtime" "^7.4.2"
     prop-types "^15.7.2"
