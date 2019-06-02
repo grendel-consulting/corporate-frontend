@@ -55,7 +55,7 @@
     "lint-staged": "8.1.7",
     "prettier": "1.17.1",
     "react-test-renderer": "16.8.6",
-    "snyk": "1.167.2",
+    "snyk": "1.171.0",
     "standard-version": "6.0.1",
     "stylelint": "10.0.1",
     "stylelint-config-recommended": "2.2.0",
