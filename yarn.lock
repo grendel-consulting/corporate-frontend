@@ -11607,9 +11607,9 @@ styled-system@4.2.3:
     "@babel/runtime" "^7.4.2"
     prop-types "^15.7.2"
 
-styled-tachyons@1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/styled-tachyons/-/styled-tachyons-1.0.7.tgz#821e3fb79146112b9dda20fed29f8d46212520ce"
+styled-tachyons@1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/styled-tachyons/-/styled-tachyons-1.0.8.tgz#65cbf693672fd9b4701552b08ae860d3a0b251d3"
   dependencies:
     lodash "^4.17.11"
     param.macro "^3.2.0"
