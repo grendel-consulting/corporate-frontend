@@ -7976,9 +7976,9 @@ lie@~3.3.0:
   dependencies:
     immediate "~3.0.5"
 
-lint-staged@9.2.4:
-  version "9.2.4"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-9.2.4.tgz#7a35839c9c6103ec98eabf43e35657c209509345"
+lint-staged@9.3.0:
+  version "9.3.0"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-9.3.0.tgz#522a79f166050ab5777887348f2cbdb03f71acac"
   dependencies:
     chalk "^2.4.2"
     commander "^2.20.0"
