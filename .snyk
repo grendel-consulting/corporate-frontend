@@ -1,4 +1,22 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
 version: v1.13.5
 ignore: {}
-patch: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-450202:
+    - gatsby > gatsby-telemetry > lodash:
+        patched: '2019-10-02T00:08:28.766Z'
+    - styled-components > @babel/traverse > lodash:
+        patched: '2019-10-02T00:08:28.766Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-10-02T00:08:28.766Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-10-02T00:08:28.766Z'
+    - gatsby > gatsby-cli > gatsby-telemetry > lodash:
+        patched: '2019-10-02T00:08:28.766Z'
+    - gatsby > gatsby-plugin-page-creator > gatsby-page-utils > lodash:
+        patched: '2019-10-02T00:08:28.766Z'
+    - styled-components > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2019-10-02T00:08:28.766Z'
+    - styled-components > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2019-10-02T00:08:28.766Z'
