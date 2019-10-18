@@ -34,7 +34,7 @@
     "typography": "0.16.19"
   },
   "devDependencies": {
-    "@babel/core": "7.6.2",
+    "@babel/core": "7.6.4",
     "@babel/plugin-proposal-optional-chaining": "7.6.0",
     "babel-eslint": "10.0.3",
     "babel-jest": "24.9.0",
