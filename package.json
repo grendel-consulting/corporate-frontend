@@ -40,7 +40,7 @@
     "babel-jest": "24.9.0",
     "babel-plugin-styled-components": "1.10.6",
     "babel-preset-gatsby": "0.2.20",
-    "eslint": "6.5.1",
+    "eslint": "6.6.0",
     "eslint-config-react-app": "5.0.2",
     "eslint-plugin-flowtype": "4.3.0",
     "eslint-plugin-import": "2.18.2",
