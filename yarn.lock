@@ -1180,9 +1180,9 @@
     ramda "0.26.1"
     url-parse "1.4.4"
 
-"@paralleldrive/react-feature-toggles@2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@paralleldrive/react-feature-toggles/-/react-feature-toggles-2.1.1.tgz#40a4ebab4dab12e981e883cc36dddbeccda0b288"
+"@paralleldrive/react-feature-toggles@2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@paralleldrive/react-feature-toggles/-/react-feature-toggles-2.2.0.tgz#49839686e7b535c2a09bf138298b8a195d39c356"
 
 "@pieh/friendly-errors-webpack-plugin@1.7.0-chalk-2":
   version "1.7.0-chalk-2"
