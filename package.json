@@ -62,6 +62,13 @@
     "stylelint-config-styled-components": "0.1.1",
     "stylelint-processor-styled-components": "1.8.0"
   },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint-plugin-flowtype": "^3.0.0",
+    "eslint-plugin-react-hooks": "^1.0.0",
+    "typescript": "2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta"
+  },
   "resolutions": {
     "lodash": "^4.17.11",
     "mem": "^4.0.0"
