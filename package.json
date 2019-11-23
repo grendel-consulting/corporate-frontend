@@ -6,7 +6,7 @@
   "author": "James Ramirez <hello@grendel-consulting.com>",
   "dependencies": {
     "@paralleldrive/feature-toggles": "1.0.4",
-    "@paralleldrive/react-feature-toggles": "2.1.1",
+    "@paralleldrive/react-feature-toggles": "2.2.0",
     "@reach/router": "1.2.1",
     "auth0-js": "9.11.3",
     "gatsby": "2.17.15",
@@ -26,7 +26,7 @@
     "react-dom": "16.12.0",
     "react-helmet": "5.2.1",
     "react-typography": "0.16.19",
-    "styled-components": "4.4.0",
+    "styled-components": "4.4.1",
     "styled-normalize": "8.0.6",
     "styled-system": "4.2.3",
     "styled-tachyons": "1.0.8",
@@ -49,10 +49,10 @@
     "eslint-plugin-react-hooks": "2.3.0",
     "eslint-plugin-sonarjs": "0.5.0",
     "flow-bin": "0.112.0",
-    "husky": "3.0.9",
+    "husky": "3.1.0",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.9.0",
-    "lint-staged": "9.4.2",
+    "lint-staged": "9.4.3",
     "prettier": "1.19.1",
     "react-test-renderer": "16.12.0",
     "snyk": "1.248.0",
@@ -62,8 +62,15 @@
     "stylelint-config-styled-components": "0.1.1",
     "stylelint-processor-styled-components": "1.8.0"
   },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint-plugin-flowtype": "^3.0.0",
+    "eslint-plugin-react-hooks": "^1.0.0",
+    "typescript": "2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta"
+  },
   "resolutions": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "mem": "^4.0.0"
   },
   "keywords": [
