@@ -1,0 +1,24 @@
+name: Flag stale issues and pull requests
+
+on:
+  schedule:
+  - cron: "0 0 * * THU"
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/stale@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+
+        stale-issue-message: 'We have marked this issue as stale since it has been thirty days without activity'
+        stale-issue-label: 'no-issue-activity'
+
+        stale-pr-message: 'We have marked this pull request as stale since it has been thirty days without activity'
+        stale-pr-label: 'no-pr-activity'
+
+        days-before-stale: 30
+

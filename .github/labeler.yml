@@ -1,0 +1,5 @@
+dependencies:
+  - yarn.lock
+
+security:
+  - .snyk
