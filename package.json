@@ -8,7 +8,7 @@
     "@paralleldrive/feature-toggles": "1.0.4",
     "@paralleldrive/react-feature-toggles": "2.2.0",
     "@reach/router": "1.2.1",
-    "@styled-system/prop-types": "^5.1.2",
+    "@styled-system/prop-types": "5.1.2",
     "auth0-js": "9.11.3",
     "gatsby": "2.17.15",
     "gatsby-image": "2.2.33",
@@ -61,7 +61,7 @@
     "stylelint": "12.0.0",
     "stylelint-config-recommended": "3.0.0",
     "stylelint-config-styled-components": "0.1.1",
-    "stylelint-processor-styled-components": "1.8.0"
+    "stylelint-processor-styled-components": "1.9.0"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.0.0",
