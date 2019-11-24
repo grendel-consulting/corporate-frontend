@@ -1,16 +1,19 @@
 import styled from "styled-components"
-import { commonStyles, typographyStyles, layoutStyles } from '../Themes/styled-theming-components'
+import { color, space, typography, layout } from 'styled-system'
+import propTypes from '@styled-system/prop-types'
 
 const Box = styled.div`
-  ${commonStyles}
-  ${typographyStyles}
-  ${layoutStyles}
+  ${color}
+  ${space}
+  ${typography}
+  ${layout}
 `;
 
 Box.propTypes = {
-  ...commonStyles.propTypes,
-  ...typographyStyles.propTypes,
-  ...layoutStyles.propTypes,
+  ...propTypes.color,
+  ...propTypes.space,
+  ...propTypes.typography,
+  ...propTypes.layout,
 }
 
 Box.defaultProps = {
