@@ -1,11 +1,14 @@
 import styled from "styled-components"
-import { commonStyles } from '../Themes/styled-theming-components'
+import { color, space } from 'styled-system'
+import propTypes from '@styled-system/prop-types'
 
 const Em = styled.em`
-  ${commonStyles}
+  ${color}
+  ${space}
 `
 Em.propTypes = {
-  ...commonStyles.propTypes,
+  ...propTypes.color,
+  ...propTypes.space,
 }
 
 Em.defaultProps = {
