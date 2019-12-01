@@ -5813,7 +5813,7 @@ gatsby-page-utils@^0.0.32:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-flow@^1.1.15:
+gatsby-plugin-flow@1.1.15:
   version "1.1.15"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-flow/-/gatsby-plugin-flow-1.1.15.tgz#da5526e519b475cca72e0b6bfc838e04807e53ec"
   integrity sha512-a2TzomL/hwQQR9UGsQdv1ezQVs5iQLpagsDgz/dNN3DMA1ixjNXIljhbsP9YDvvBoPevO3CBImMbZaqjvOgSRA==
