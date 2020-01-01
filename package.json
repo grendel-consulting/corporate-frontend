@@ -37,8 +37,13 @@
   "devDependencies": {
     "@babel/core": "7.7.7",
     "@babel/plugin-proposal-optional-chaining": "7.7.5",
+    "@storybook/addon-actions": "^5.2.8",
+    "@storybook/addon-links": "^5.2.8",
+    "@storybook/addons": "^5.2.8",
+    "@storybook/react": "^5.2.8",
     "babel-eslint": "10.0.3",
     "babel-jest": "24.9.0",
+    "babel-loader": "^8.0.6",
     "babel-plugin-styled-components": "1.10.6",
     "babel-preset-gatsby": "0.2.26",
     "eslint": "6.8.0",
@@ -92,7 +97,9 @@
     "pretest": "yarn run lint:css && yarn run lint",
     "test": "jest --passWithNoTests && snyk test",
     "lint": "eslint . --cache --fix",
-    "lint:css": "stylelint '**/*.js'"
+    "lint:css": "stylelint '**/*.js'",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "husky": {
     "hooks": {
