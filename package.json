@@ -82,8 +82,10 @@
     "typescript": "2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta"
   },
   "resolutions": {
+    "crypto-js": "^3.2.1",
     "dot-prop": "^5.1.1",
     "elliptic": "^6.5.2",
+    "@hapi/hoek": "^8.5.1",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.13",
     "mem": "^4.0.0",
