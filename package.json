@@ -83,7 +83,7 @@
   },
   "resolutions": {
     "acorn": "^7.1.1",
-    "crypto-js": "^3.2.1",
+    "crypto-js": "^4.0.0",
     "dot-prop": "^5.1.1",
     "elliptic": "^6.5.2",
     "@hapi/hoek": "^9.0.0",
