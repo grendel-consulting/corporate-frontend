@@ -6391,10 +6391,10 @@ eslint-plugin-jsx-a11y@6.2.3, eslint-plugin-jsx-a11y@^6.2.3:
     has "^1.0.3"
     jsx-ast-utils "^2.2.1"
 
-eslint-plugin-no-secrets@0.3.4:
-  version "0.3.4"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-no-secrets/-/eslint-plugin-no-secrets-0.3.4.tgz#08cd3a6e59c47559a59db6b0bc75df4c726ea911"
-  integrity sha512-kfbI9FeTKso/fYv3fjUtF8B7gFytFaJEu4ElPpHzMiVJ8ZHE0Uslb3JPjDGSS66Hz4ZDTdlVA5TxPYaPRCkbYg==
+eslint-plugin-no-secrets@0.6.5:
+  version "0.6.5"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-no-secrets/-/eslint-plugin-no-secrets-0.6.5.tgz#99ec2cdfce09792125209c02b4188af6659aa3f6"
+  integrity sha512-LbKdK2IYChsIHwEMTARPXj50IeJfmCotAXhfN+S1tF3wAqnJmPMznEXcxPbLyOssgXNFBi9HqQFB0kW0dWqLyw==
 
 eslint-plugin-react-hooks@2.5.0:
   version "2.5.0"
