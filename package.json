@@ -64,7 +64,7 @@
     "identity-obj-proxy": "3.0.0",
     "jest": "25.1.0",
     "lint-staged": "10.0.8",
-    "prettier": "1.19.1",
+    "prettier": "2.0.0",
     "react-test-renderer": "16.13.0",
     "snyk": "1.299.0",
     "standard-version": "7.1.0",
