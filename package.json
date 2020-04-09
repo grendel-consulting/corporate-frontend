@@ -9,7 +9,7 @@
     "@paralleldrive/react-feature-toggles": "2.3.0",
     "@reach/router": "1.3.3",
     "@styled-system/prop-types": "5.1.5",
-    "auth0-js": "9.13.1",
+    "auth0-js": "9.13.2",
     "gatsby": "2.20.12",
     "gatsby-cli": "2.11.5",
     "gatsby-image": "2.3.1",
