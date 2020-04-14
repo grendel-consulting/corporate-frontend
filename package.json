@@ -68,7 +68,7 @@
     "react-test-renderer": "16.13.1",
     "snyk": "1.305.1",
     "standard-version": "7.1.0",
-    "start-server-and-test": "1.10.11",
+    "start-server-and-test": "1.11.0",
     "stylelint": "13.3.2",
     "stylelint-config-recommended": "3.0.0",
     "stylelint-config-styled-components": "0.1.1",
