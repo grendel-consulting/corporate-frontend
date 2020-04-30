@@ -35,7 +35,8 @@
     "styled-system": "5.1.5",
     "styled-tachyons": "1.0.8",
     "styled-theming": "2.2.0",
-    "typography": "0.16.19"
+    "typography": "0.16.19",
+    "snyk": "^1.316.0"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
@@ -66,7 +67,6 @@
     "lint-staged": "10.2.0",
     "prettier": "2.0.5",
     "react-test-renderer": "16.13.1",
-    "snyk": "1.311.0",
     "standard-version": "7.1.0",
     "start-server-and-test": "1.11.0",
     "stylelint": "13.3.3",
@@ -114,7 +114,9 @@
     "lint": "eslint . --cache --fix",
     "lint:css": "stylelint '**/*.js'",
     "storybook": "start-storybook -p 6006",
-    "test:e2e": "start-server-and-test develop http://localhost:8000 cy:open"
+    "test:e2e": "start-server-and-test develop http://localhost:8000 cy:open",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "husky": {
     "hooks": {
@@ -147,5 +149,6 @@
   },
   "bugs": {
     "url": "https://github.com/grendel-consulting/corporate-frontend/issues"
-  }
+  },
+  "snyk": true
 }
