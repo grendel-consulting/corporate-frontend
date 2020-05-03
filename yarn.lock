@@ -8036,10 +8036,10 @@ fuse.js@^3.4.6:
   resolved "https://registry.yarnpkg.com/fuse.js/-/fuse.js-3.4.6.tgz#545c3411fed88bf2e27c457cab6e73e7af697a45"
   integrity sha512-H6aJY4UpLFwxj1+5nAvufom5b2BT2v45P1MkPvdGIK8fWjQx/7o6tTT1+ALV0yawQvbmvCF0ufl2et8eJ7v7Cg==
 
-gatsby-cli@2.12.5, gatsby-cli@^2.12.0:
-  version "2.12.5"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.12.5.tgz#f79fd1d466fa121b28b7dc3f90e8b4b704008e4f"
-  integrity sha512-YH2XDGNWRJNYq4jHbHKSS8Wy1/Ao6k6HHKJMOCtWMmeencurAELbkXUVCxkqL/3FxFUUbWOw4j6nkiWfsHVznw==
+gatsby-cli@2.12.7, gatsby-cli@^2.12.7:
+  version "2.12.7"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.12.7.tgz#4b935e0f10328b4c5e55aa6ccedbeb04a00ea95c"
+  integrity sha512-FxvvV0ITo+hb8pFWHfwIaPugYQR0i4VRH22srLstJtTUZlnlT0YzLLUi+xCOc5Yo/bsLbR3W+4KLtiNC5BoAOQ==
   dependencies:
     "@babel/code-frame" "^7.8.3"
     "@babel/runtime" "^7.9.2"
@@ -8057,8 +8057,8 @@ gatsby-cli@2.12.5, gatsby-cli@^2.12.0:
     fs-exists-cached "^1.0.0"
     fs-extra "^8.1.0"
     gatsby-core-utils "^1.2.0"
-    gatsby-recipes "^0.1.6"
-    gatsby-telemetry "^1.3.0"
+    gatsby-recipes "^0.1.8"
+    gatsby-telemetry "^1.3.1"
     hosted-git-info "^3.0.4"
     is-valid-path "^0.1.1"
     lodash "^4.17.15"
@@ -8141,10 +8141,10 @@ gatsby-plugin-flow@1.3.0:
     "@babel/preset-flow" "^7.9.0"
     "@babel/runtime" "^7.9.2"
 
-gatsby-plugin-manifest@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.4.0.tgz#8b4b1ca8169d764e9141325a9d03c9666dc13f54"
-  integrity sha512-z61gZHnMZxYRhA1cU8vp7+COgZv2xnlz6uepDeCvb3TtB70JKcYfegsJqmkv90WOvumF9YYt+/p9yckGJWIQwQ==
+gatsby-plugin-manifest@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.4.1.tgz#57381d3cc2d3b8aaa0d40bfcb7595323490f8708"
+  integrity sha512-OdpqwRdhJJn/BtwWBqRbNllIbNAFAHF1ntkZQqi7LvvaUeSdeKewi7IhYRab6O/fAZ5oQsLq1DWVjpyLEt0czg==
   dependencies:
     "@babel/runtime" "^7.9.2"
     gatsby-core-utils "^1.2.0"
@@ -8239,7 +8239,7 @@ gatsby-react-router-scroll@2.3.0, gatsby-react-router-scroll@^2.3.0:
     scroll-behavior "^0.9.12"
     warning "^3.0.0"
 
-gatsby-recipes@^0.1.6:
+gatsby-recipes@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/gatsby-recipes/-/gatsby-recipes-0.1.8.tgz#cf49937118b8b48ea71df8ed1846c243c0201315"
   integrity sha512-tpt7mzAWxyOAHxNQRh0ocrDjiRTqYNuzTBUCT24np9FFFpJO+5JMuhESC8W6BI+UyrCiYwwAu8TGfhWGCbDyOQ==
@@ -8328,7 +8328,7 @@ gatsby-source-filesystem@2.3.0:
     valid-url "^1.0.9"
     xstate "^4.9.1"
 
-gatsby-telemetry@^1.3.0, gatsby-telemetry@^1.3.1:
+gatsby-telemetry@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-1.3.1.tgz#699a7ca81798d189806e7cd4a5c71ed10dcbf844"
   integrity sha512-UOuRSbNrRkWIi7vzwI2gxd5b+pY0HXuvrhdzB/B/SCUkDaxfKf0LIsLIjtnSAKUrNNxNKnec0jSGk3PJdUNh4g==
@@ -8364,10 +8364,10 @@ gatsby-transformer-sharp@2.5.0:
     semver "^5.7.1"
     sharp "^0.25.1"
 
-gatsby@2.21.0:
-  version "2.21.0"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.21.0.tgz#0e4abc974efd181aad248547daabb832cbcb0b3f"
-  integrity sha512-+BU+WM15IOfJeagmo0kcbogL4oCY4E8k4qlIeC98cyucCvbkaDK9R1cuXZgslA73ZJOdnWUfea7NwWLiFndXRw==
+gatsby@2.21.9:
+  version "2.21.9"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.21.9.tgz#092d5fe9648bc24e2a2891e5bd61a50eb0a6c43e"
+  integrity sha512-pvMJQqt2AsJYdNRe9KJjenJc5m0rhrleApqMRiKT5RBYWOGuGMh9Y7xZ0R20FoJPs6SIKErJAZ6DVTkD4WaE3w==
   dependencies:
     "@babel/code-frame" "^7.8.3"
     "@babel/core" "^7.9.0"
@@ -8430,13 +8430,13 @@ gatsby@2.21.0:
     flat "^4.1.0"
     fs-exists-cached "1.0.0"
     fs-extra "^8.1.0"
-    gatsby-cli "^2.12.0"
+    gatsby-cli "^2.12.7"
     gatsby-core-utils "^1.2.0"
     gatsby-graphiql-explorer "^0.4.0"
     gatsby-link "^2.4.0"
     gatsby-plugin-page-creator "^2.3.0"
     gatsby-react-router-scroll "^2.3.0"
-    gatsby-telemetry "^1.3.0"
+    gatsby-telemetry "^1.3.1"
     glob "^7.1.6"
     got "8.3.2"
     graphql "^14.6.0"
@@ -8470,7 +8470,7 @@ gatsby@2.21.0:
     parseurl "^1.3.3"
     physical-cpu-count "^2.0.0"
     pnp-webpack-plugin "^1.6.4"
-    postcss-flexbugs-fixes "^4.2.0"
+    postcss-flexbugs-fixes "^4.2.1"
     postcss-loader "^3.0.0"
     prompts "^2.3.2"
     prop-types "^15.7.2"
@@ -13564,10 +13564,10 @@ postcss-discard-overridden@^4.0.1:
   dependencies:
     postcss "^7.0.0"
 
-postcss-flexbugs-fixes@^4.1.0, postcss-flexbugs-fixes@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/postcss-flexbugs-fixes/-/postcss-flexbugs-fixes-4.2.0.tgz#662b3dcb6354638b9213a55eed8913bcdc8d004a"
-  integrity sha512-QRE0n3hpkxxS/OGvzOa+PDuy4mh/Jg4o9ui22/ko5iGYOG3M5dfJabjnAZjTdh2G9F85c7Hv8hWcEDEKW/xceQ==
+postcss-flexbugs-fixes@^4.1.0, postcss-flexbugs-fixes@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/postcss-flexbugs-fixes/-/postcss-flexbugs-fixes-4.2.1.tgz#9218a65249f30897deab1033aced8578562a6690"
+  integrity sha512-9SiofaZ9CWpQWxOwRh1b/r85KD5y7GgvsNt1056k6OYLvWUun0czCvogfJgylC22uJTwW1KzY3Gz65NZRlvoiQ==
   dependencies:
     postcss "^7.0.26"
 
