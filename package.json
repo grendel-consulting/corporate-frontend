@@ -30,7 +30,7 @@
     "react-dom": "16.13.1",
     "react-helmet": "6.1.0",
     "react-typography": "0.16.19",
-    "snyk": "1.336.0",
+    "snyk": "^1.339.0",
     "styled-components": "5.1.1",
     "styled-normalize": "8.0.7",
     "styled-system": "5.1.5",
@@ -87,6 +87,7 @@
     "decompress": "^4.2.1",
     "dot-prop": "^5.1.1",
     "elliptic": "^6.5.2",
+    "graphql-playground-html": "^1.6.25",
     "@hapi/hoek": "^9.0.0",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.13",
@@ -94,7 +95,8 @@
     "minimist": "^1.2.2",
     "mixin-deep": "^2.0.0",
     "set-value": "^3.0.0",
-    "url-parse": "^1.4.5"
+    "url-parse": "^1.4.5",
+    "websocket-extensions": "^0.1.4"
   },
   "keywords": [
     "Grendel"
