@@ -2060,10 +2060,10 @@
     ramda "0.26.1"
     url-parse "1.4.4"
 
-"@paralleldrive/react-feature-toggles@2.3.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@paralleldrive/react-feature-toggles/-/react-feature-toggles-2.3.0.tgz#f4257e70a9e50d36f5c19f5cf390bde4b7d9af62"
-  integrity sha512-O36T3vIGpwgab4vB4dPnk5X3D4A/hFDMgRCO33OLJxScqWb2BK2uO5H/ahfCfyXCv+BmDjsWH43GnwYUKgrfQQ==
+"@paralleldrive/react-feature-toggles@2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@paralleldrive/react-feature-toggles/-/react-feature-toggles-2.3.1.tgz#7b4f105fcb003fd22a875f7718a737ec78751add"
+  integrity sha512-GJbpD2R+h2s1SjlZgFGSlAMHSMJLJYuGk/0GMiVzubOchOun/dIZXp8HqYvNXvr4yOFU4Ocsgd8BgribBZIGrw==
 
 "@pieh/friendly-errors-webpack-plugin@1.7.0-chalk-2":
   version "1.7.0-chalk-2"
