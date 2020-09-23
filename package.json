@@ -83,6 +83,7 @@
   },
   "resolutions": {
     "acorn": "^8.0.0",
+    "bl": "^4.0.3",
     "crypto-js": "^4.0.0",
     "decompress": "^4.2.1",
     "dot-prop": "^5.1.1",
@@ -97,6 +98,8 @@
     "mixin-deep": "^2.0.0",
     "node-fetch": "^2.6.1",
     "node-forge": "^0.10.0",
+    "prismjs": "^1.21.0",
+    "property-expr": "^2.0.3",
     "set-value": "^3.0.0",
     "url-parse": "^1.4.5",
     "websocket-extensions": "^0.1.4",
