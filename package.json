@@ -93,7 +93,7 @@
     "http-proxy": "^1.18.1",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.13",
-    "mem": "^6.0.0",
+    "mem": "^8.0.0",
     "minimist": "^1.2.2",
     "mixin-deep": "^2.0.0",
     "node-fetch": "^2.6.1",
