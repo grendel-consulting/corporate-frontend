@@ -30,7 +30,7 @@
     "react-dom": "17.0.1",
     "react-helmet": "6.1.0",
     "react-typography": "0.16.19",
-    "snyk": "1.431.2",
+    "snyk": "1.434.2",
     "styled-components": "5.2.1",
     "styled-normalize": "8.0.7",
     "styled-system": "5.1.5",
@@ -50,8 +50,8 @@
     "babel-loader": "8.2.2",
     "babel-plugin-styled-components": "1.12.0",
     "babel-preset-gatsby": "0.8.0",
-    "cypress": "6.0.1",
-    "eslint": "7.14.0",
+    "cypress": "6.1.0",
+    "eslint": "7.15.0",
     "eslint-config-react-app": "6.0.0",
     "eslint-plugin-flowtype": "5.2.0",
     "eslint-plugin-import": "2.22.1",
@@ -60,8 +60,8 @@
     "eslint-plugin-react": "7.21.5",
     "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-sonarjs": "0.5.0",
-    "flow-bin": "0.138.0",
-    "husky": "4.3.0",
+    "flow-bin": "0.139.0",
+    "husky": "5.0.4",
     "identity-obj-proxy": "3.0.0",
     "jest": "26.6.3",
     "lint-staged": "10.5.3",
@@ -126,7 +126,8 @@
     "storybook": "start-storybook -p 6006",
     "test:e2e": "start-server-and-test develop http://localhost:8000 cy:open",
     "snyk-protect": "snyk protect",
-    "prepare": "yarn run snyk-protect"
+    "prepare": "yarn run snyk-protect",
+    "postinstall": "husky install"
   },
   "husky": {
     "hooks": {
