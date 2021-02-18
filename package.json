@@ -39,8 +39,8 @@
     "typography": "0.16.19"
   },
   "devDependencies": {
-    "@babel/core": "7.12.16",
-    "@babel/plugin-proposal-optional-chaining": "7.12.16",
+    "@babel/core": "7.12.17",
+    "@babel/plugin-proposal-optional-chaining": "7.12.17",
     "@storybook/addon-actions": "6.1.18",
     "@storybook/addon-links": "6.1.18",
     "@storybook/addons": "6.1.18",
