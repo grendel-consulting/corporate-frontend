@@ -101,6 +101,7 @@
     "mem": "^8.0.0",
     "minimist": "^1.2.2",
     "mixin-deep": "^2.0.0",
+    "netmask": "^2.0.1",
     "node-fetch": "^2.6.1",
     "node-forge": "^0.10.0",
     "object-path": "^0.11.5",
