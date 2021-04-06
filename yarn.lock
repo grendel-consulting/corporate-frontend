@@ -6467,10 +6467,10 @@ currently-unhandled@^0.4.1:
   dependencies:
     array-find-index "^1.0.1"
 
-cypress@6.9.0:
-  version "6.9.0"
-  resolved "https://registry.yarnpkg.com/cypress/-/cypress-6.9.0.tgz#8974ce73e15db8d7bb405f3c74378ae884cebc30"
-  integrity sha512-s1MoYwYQQSV8HIMGDI2AgjD8TsoguJXt1ts0pUsrrmg1dxFCandeuc454bVNhgBvpoQwKd7eq8fsTZovng7dHA==
+cypress@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/cypress/-/cypress-7.0.0.tgz#78b67a87bace1b530c123ba8d779899e676ed676"
+  integrity sha512-gri53gIGQPf/RoUknwvNS3alUjZwdmtp9BcKzLgyrwA/gBxJcpDLZ1t+MTvXy57ifRWEMxmEWzQe+iszCzJZqA==
   dependencies:
     "@cypress/listr-verbose-renderer" "^0.4.1"
     "@cypress/request" "^2.88.5"
